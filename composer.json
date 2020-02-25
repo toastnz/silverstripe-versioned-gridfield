@@ -1,5 +1,5 @@
 {
-  "name": "icecaster/versioned-gridfield",
+  "name": "toastnz/versioned-gridfield",
   "type": "silverstripe-module",
 	"description": "VersionedGridFieldDetailForm, for managing Sitetree (or any other versioned objects) in CMS interfaces, such as ModelAdmin",
 	"keywords": ["silverstripe", "gridfield", "blog"],
